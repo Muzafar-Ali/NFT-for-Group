@@ -4,7 +4,7 @@
 Single mint against ethers
 Bulk mint against ethers
 Max supply
-Per minting cap for individual address
+Per minting cap for buyer
 Start and end time 
 Initial mint at the time of deployment
 Buy initial minted nft against ethers 
