@@ -1,5 +1,6 @@
 # Project Requiremetns
 
+```shell
 Single mint against ethers
 Bulk mint against ethers
 Max supply
@@ -9,7 +10,7 @@ Initial mint at the time of deployment
 Buy initial minted nft against ethers 
 Set nft price
 Funds withdrawal by owner
-
+```
 
 
 
