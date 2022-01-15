@@ -1,4 +1,5 @@
-#Requiremetns
+#Project Requiremetns
+
 Single mint against ethers
 Bulk mint against ethers
 Max supply
